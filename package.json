@@ -2,8 +2,12 @@
     "name": "material-color",
     "displayName": "Material Color",
     "description": "material syntax highlighting",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "guobing",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/guobing1993/Material-Color"
+	},
     "engines": {
         "vscode": "^1.26.0"
     },
