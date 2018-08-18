@@ -1,0 +1,22 @@
+{
+    "name": "material-color",
+    "displayName": "Material Color",
+    "description": "material syntax highlighting",
+    "version": "0.0.1",
+    "publisher": "guobing",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Color-color-theme.json"
+            }
+        ]
+    }
+}
