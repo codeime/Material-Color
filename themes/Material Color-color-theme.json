@@ -694,5 +694,6 @@
 	"tab.border": "#212121",
 	"tab.inactiveBackground": "#333333",
 	"editorGroupHeader.tabsBackground": "#333333",
+	"editorCursor.foreground":"#ffcc00"
 }
 }
