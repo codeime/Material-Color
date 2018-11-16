@@ -2,13 +2,13 @@
     "name": "material-color",
     "displayName": "Material Color",
     "description": "material syntax highlighting",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "publisher": "guobing",
     "icon": "logo.png",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/guobing1993/Material-Color"
-	},
+        "type": "git",
+        "url": "https://github.com/guobing1993/Material-Color"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
@@ -16,12 +16,15 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Material Color",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Material Color-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Material Color",
+            "uiTheme": "vs-dark",
+            "path": "./src/Material Color-color-theme.json"
+        }],
+        "iconThemes": [{
+            "id": "Material Color",
+            "label": "Material Color",
+            "path": "./src/Material Color-icon-theme.json"
+        }]
     }
 }
