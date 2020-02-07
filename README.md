@@ -1,7 +1,7 @@
 #### Materila Color
 <center>
 
-![html](./src/img/show.jpg)
+![html](./src/img/show.png)
 
 **Enjoy!**
 
