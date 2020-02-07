@@ -15,9 +15,6 @@
     "categories": [
         "Themes"
     ],
-    "extensionKind": [
-        "ui"
-    ],
     "activationEvents": [
         "*"
     ],
