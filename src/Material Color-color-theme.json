@@ -9,6 +9,7 @@
         "editorLineNumber.foreground": "#aca8a8",
         "editorLineNumber.activeForeground": "#fff",
         "tab.border": "#212121",
+        "tab.activeBorder": "#007acc",
         "tab.inactiveBackground": "#333333",
         "editorGroupHeader.tabsBackground": "#333333",
         "editorCursor.foreground": "#ffcc00"
@@ -16,7 +17,6 @@
     "tokenColors": [
         {
             "settings": {
-                "background": "#263238",
                 "foreground": "#ffffff"
             }
         },
