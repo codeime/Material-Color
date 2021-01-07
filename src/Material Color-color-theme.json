@@ -1,6 +1,18 @@
 {
     "name": "Material Color",
     "type": "dark",
+    "colors": {
+        "editor.background": "#212121",
+        "editor.foreground": "#EEFFFF",
+        "sideBarTitle.foreground": "#bbbbbb",
+        "editor.lineHighlightBackground": "#000000",
+        "editorLineNumber.foreground": "#aca8a8",
+        "editorLineNumber.activeForeground": "#fff",
+        "tab.border": "#212121",
+        "tab.inactiveBackground": "#333333",
+        "editorGroupHeader.tabsBackground": "#333333",
+        "editorCursor.foreground": "#ffcc00"
+    },
     "tokenColors": [
         {
             "settings": {
@@ -672,17 +684,5 @@
             }
         }
     ],
-    "colors": {
-        "editor.background": "#212121",
-        "editor.foreground": "#EEFFFF",
-        "sideBarTitle.foreground": "#bbbbbb",
-        "editor.lineHighlightBackground": "#000000",
-        "editorLineNumber.foreground": "#aca8a8",
-        "editorLineNumber.activeForeground": "#fff",
-        "tab.activeBorder": "#007acc",
-        "tab.border": "#212121",
-        "tab.inactiveBackground": "#333333",
-        "editorGroupHeader.tabsBackground": "#333333",
-        "editorCursor.foreground": "#ffcc00"
-    }
+    "semanticHighlighting": true
 }
