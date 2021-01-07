@@ -11,6 +11,8 @@
         "tab.border": "#212121",
         "tab.activeBorder": "#007acc",
         "tab.inactiveBackground": "#333333",
+        "statusBarItem.remoteForeground": "#FFF",
+        "statusBarItem.remoteBackground": "#16825D",
         "editorGroupHeader.tabsBackground": "#333333",
         "editorCursor.foreground": "#ffcc00"
     },
