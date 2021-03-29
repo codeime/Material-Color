@@ -1,11 +1,9 @@
-#### Materila Color
-<center>
 
-![html](./src/img/show.png)
+<h2> Materila Color </h2>
+syntax highlighting，file icon
+
+![html](https://cdn.jsdelivr.net/gh/guobing1993/githubimg@main/utools/1616995482983-show.png)
 
 **Enjoy!**
 
-</center>
-
-<!-- <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a></p> -->
 
