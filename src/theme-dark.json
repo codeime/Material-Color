@@ -1,5 +1,6 @@
 {
     "name": "Material Color",
+    "semanticHighlighting": true,
     "type": "dark",
     "colors": {
         "editor.background": "#212121",
@@ -685,6 +686,5 @@
                 "foreground": "#EEFFFF"
             }
         }
-    ],
-    "semanticHighlighting": true
+    ]
 }
