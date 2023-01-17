@@ -4,17 +4,18 @@
     "colors": {
         "editor.background": "#212121",
         "editor.foreground": "#EEFFFF",
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
         "sideBarTitle.foreground": "#bbbbbb",
-        "editor.lineHighlightBackground": "#000000",
-        "editorLineNumber.foreground": "#aca8a8",
-        "editorLineNumber.activeForeground": "#fff",
+        "editorLineNumber.foreground": "#aca8a8b9",
+        "editorLineNumber.activeForeground": "#eee",
         "tab.border": "#212121",
         "tab.activeBorder": "#007acc",
         "tab.inactiveBackground": "#333333",
         "statusBarItem.remoteForeground": "#FFF",
         "statusBarItem.remoteBackground": "#16825D",
         "editorGroupHeader.tabsBackground": "#333333",
-        "editorCursor.foreground": "#ffcc00"
+        "editorCursor.foreground": "#1073cf",
     },
     "tokenColors": [
         {
