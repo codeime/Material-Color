@@ -1,7 +1,5 @@
 # Change Log
-All notable changes to the "material-color" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.4.1 (2023-06-26)
 
-## [Unreleased]
-- Initial release
+new theme base on vs-dark-modern
