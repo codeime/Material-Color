@@ -15,7 +15,8 @@
         "statusBarItem.remoteForeground": "#FFF",
         "statusBarItem.remoteBackground": "#16825D",
         "editorGroupHeader.tabsBackground": "#333333",
-        "editorCursor.foreground": "#1073cf"
+        "editorCursor.foreground": "#3ad45e",
+        "terminalCursor.foreground": "#1073cf"
     },
     "tokenColors": [
         {
