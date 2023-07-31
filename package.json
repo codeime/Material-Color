@@ -18,14 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material Color",
-                "uiTheme": "vs-dark",
-                "path": "./src/dark.json"
-            },
-            {
                 "label": "Material Color(Dark Modern)",
                 "uiTheme": "vs-dark",
                 "path": "./src/modern.json"
+            },
+            {
+                "label": "Material Color",
+                "uiTheme": "vs-dark",
+                "path": "./src/dark.json"
             }
         ],
         "iconThemes": [
