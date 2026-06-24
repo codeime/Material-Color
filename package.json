@@ -18,6 +18,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Material Color (Claude Light)",
+                "uiTheme": "vs",
+                "path": "./src/claude-light.json"
+            },
+            {
                 "label": "Material Color Dark",
                 "uiTheme": "vs-dark",
                 "path": "./src/dark-2026.json"
